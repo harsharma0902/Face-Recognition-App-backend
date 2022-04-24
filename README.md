@@ -1,6 +1,6 @@
 # Face-Recognition-App-backend
 Backend server of the face recognition app. Built using express.js and node.js. The RDBMS software used is PostgreSQL.
-
+Frontend Repository Link: https://github.com/harsharma0902/Face-Recognition-App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
